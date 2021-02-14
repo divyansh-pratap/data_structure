@@ -1,3 +1,3 @@
 # Data Structures
 
-All the major data structures covered.
+All the major data structures covered!
